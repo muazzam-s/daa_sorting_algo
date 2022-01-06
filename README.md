@@ -1,4 +1,4 @@
-# daa_sorting_algo
+# Sorting Algorithm Visualizer
 Visualization of Sorting Techniques using Asynchronous JavaScript
 # Live testing 
 https://muazzam-s.github.io/daa_sorting_algo/
